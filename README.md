@@ -173,7 +173,7 @@ jupyter notebook
 
 ## Author
 
-Your Name
+Krishan Jangir
 Data Science / Machine Learning Project
 
 ---
